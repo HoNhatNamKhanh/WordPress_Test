@@ -1,5 +1,5 @@
-<?php include('header.php');?>
+<?php get_header('header')?>
 
-This is where we show home page?
+<?php get_template_part('./includes/section' ,'content') ?>
 
-<?php include('footer.php')?>  
+<?php get_footer('footer')?>  
