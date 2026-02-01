@@ -1,32 +1,31 @@
-# WordPress Learning & Testing Repo
+# WordPress Learning Repository
 
-This repository is used for **learning and testing WordPress theme development**.
+This repository is used for **learning and experimenting with WordPress theme development**.
 
 ## 🎯 Purpose
-- Practice WordPress theme structure
-- Test `functions.php`, hooks, and actions
-- Learn how to enqueue CSS/JS correctly
-- Experiment with frontend frameworks (Bootstrap, Tailwind)
-- Reproduce and debug common WordPress issues
+- Learn WordPress theme structure
+- Practice using `functions.php`
+- Work with WordPress hooks and actions
+- Learn how to enqueue CSS and JavaScript correctly
+- Experiment with frontend frameworks such as Bootstrap and Tailwind
 
-## 🧪 What I practice here
-- WordPress hooks (`add_action`, `wp_enqueue_scripts`)
-- Theme files (`header.php`, `footer.php`, `index.php`, etc.)
-- Asset loading (CSS / JS)
-- Basic frontend layout testing
-- Debugging and testing with a QA mindset
+## 🧱 What I work on here
+- WordPress theme files (`header.php`, `footer.php`, `index.php`, etc.)
+- Asset management (CSS / JS)
+- Theme customization and layout structure
+- Frontend styling and integration
+- Understanding how WordPress works internally
 
-## 🧱 Tech stack
+## 🛠 Tech Stack
 - WordPress
 - PHP
-- Bootstrap / Tailwind (for testing purposes)
-- Laragon (local environment)
+- Bootstrap / Tailwind
+- Laragon (local development environment)
 
 ## ⚠️ Notes
-- This is a **learning & testing repository**
+- This is a **learning-focused repository**
 - Code may be experimental and not production-ready
 - Used mainly for self-study and practice
 
-## 🧠 Goal
-To better understand how WordPress works internally and improve both  
-**development and testing skills**.
+## 🎯 Goal
+To build a solid foundation in **WordPress theme development** and frontend integration.
