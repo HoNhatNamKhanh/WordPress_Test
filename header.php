@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,5 +9,5 @@
     <?php wp_head(); ?>
     <p>Navigation here</p>
 </head>
-<body>
-    
+<!-- Showing menu -->
+<?php get_template_part('includes/section', 'menu'); ?>
