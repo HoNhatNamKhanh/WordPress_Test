@@ -4,6 +4,7 @@ if ( have_posts() ) {
 		the_post(); 
 		//
 		// Post Content here
+		the_title();
         the_content();
 		//
 	} // end while
